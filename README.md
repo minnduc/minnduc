@@ -19,7 +19,7 @@
  
  🤝  I'm open to collaborating on **Projects**
  
- ⚡  I am a **T1 fan 🔴**
+ ⚡  I am a **Ramen lover 🔴**
 
  </div>
 
