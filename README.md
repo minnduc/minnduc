@@ -19,7 +19,7 @@
  
  🤝  I'm open to collaborating on **Projects**
  
- ⚡  I am a **Ramen lover 🔴**
+ ⚡  I am a **Ramen lover 🍜**
 
  </div>
 
