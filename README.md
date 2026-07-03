@@ -2,24 +2,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=minnduc.minnduc" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Minh+Duc+Nguyen!;+Fullstack+AI+Engineer;+UITの学生;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Minh+Duc+Nguyen!;AI+Engineer;+UITの学生;" />
 </h1>
-
-<h3 align="center">A passionate Fullstack Engineer from University of Information And Technology</h3>
-
-<br/>
 
 <div align="center">
   
- 🌍  I'm based in **Việt Nam**
+ 🌍  I'm based in **Viet Nam**
   
  ✉️  You can contact me at **[minnduc.nguyen@gmail.com](mailto:minnduc.nguyen@gmail.com)**
 
- 🧠  I'm learning **Machine Learning, Database, Backend and UX/UI**  
+ 🧠  I'm learning **Machine Learning, AI**  
  
- 🤝  I'm open to collaborating on **Projects**
- 
- ⚡  I am a **Ramen lover 🍜**
+ ❤️  I love **Swimming** and **Orca**
 
  </div>
 
@@ -29,7 +23,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,figma,nextjs" /><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,postgres" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,cpp,postgres,pytorch" />
 </div>
 
 <br/>
